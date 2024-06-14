@@ -7,4 +7,7 @@
 - jupyter lab: to open jupyter lab
 
 # getting started in jupyter lab
-- change environment into the correct one using conda 
+- change environment into the correct one using conda, where my_env is the environment of interest
+```console
+conda activate my_env
+```
