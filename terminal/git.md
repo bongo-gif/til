@@ -18,3 +18,23 @@ delete a branch on your local system
 ```console
 git branch -d name_of_branch
 ```
+
+check what branch you're on
+```console
+git status
+```
+
+to see local branches
+```console
+git branch 
+```
+
+to see remote branches
+```console
+git branch -r
+```
+
+to see all branches
+```console
+git branch -a
+```
