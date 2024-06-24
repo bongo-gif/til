@@ -38,3 +38,8 @@ to see all branches
 ```console
 git branch -a
 ```
+
+to switch branches
+```console
+git checkout <branch_name>
+```
