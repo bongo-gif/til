@@ -46,8 +46,7 @@ git checkout <branch_name>
 after modifying a file, you need to add and commit those changes
 to add a file
 ```console
-git add <file name>
-git add --all
+git add -A
 ```
 to commit changes to the repo
 ```console
