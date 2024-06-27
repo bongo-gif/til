@@ -43,3 +43,13 @@ to switch branches
 ```console
 git checkout <branch_name>
 ```
+after modifying a file, you need to add and commit those changes
+to add a file
+```console
+git add <file name>
+git add --all
+```
+to commit changes to the repo
+```console
+git commit -m "add message here"
+```
